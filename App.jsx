@@ -119,7 +119,7 @@ export default function App() {
           <div className="container hero-grid">
             <div>
               <div className="breadcrumb">Home / Research / AURD System</div>
-              <p className="eyebrow">Autonomous UAS research and demonstration</p>
+              <p className="eyebrow">ATM/UTM Research and Development Environment (AURD)</p>
               <h2 className="hero-title">A formal research showcase for the Cranfield AURD system</h2>
               <p className="hero-text">
                 This website template is designed to present the AURD system in a style closer to a university
